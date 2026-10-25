@@ -2,7 +2,7 @@
 
 ![Terraform](https://img.shields.io/badge/Terraform-%E2%89%A51.6-7B42BC?logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-Storage-0078D4?logo=microsoftazure&logoColor=white)
-[![Terraform checks](../../actions/workflows/terraform.yml/badge.svg)](../../actions/workflows/terraform.yml)
+[![Terraform checks](https://github.com/dearley25/terraform-azure-static-site/actions/workflows/terraform.yml/badge.svg)](https://github.com/dearley25/terraform-azure-static-site/actions/workflows/terraform.yml)
 
 Infrastructure as Code project that deploys a personal static website to **Azure Storage** using **Terraform**. One command builds everything, one command tears it down.
 
