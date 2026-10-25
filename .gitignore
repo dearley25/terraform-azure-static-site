@@ -1,0 +1,24 @@
+# Local Terraform working files
+.terraform/
+*.tfplan
+crash.log
+crash.*.log
+
+# State can contain secrets - never commit it
+*.tfstate
+*.tfstate.*
+
+# Variable files often hold environment-specific or secret values
+*.tfvars
+*.tfvars.json
+!terraform.tfvars.example
+
+# Local overrides
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI config
+.terraformrc
+terraform.rc
