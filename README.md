@@ -6,6 +6,8 @@
 
 Infrastructure as Code project that deploys a personal static website to **Azure Storage** using **Terraform**. One command builds everything, one command tears it down.
 
+**Live site:** https://ststaticsiteviakeo.z13.web.core.windows.net/
+
 ## What it builds
 
 ```mermaid
